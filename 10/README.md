@@ -18,3 +18,5 @@ Màn hình của Nguyễn Xuân Đức - Nhóm 10
   </p>
 
 Code mã nguồn: https://github.com/DiemHieu/ELT3097-1-2020/tree/master/NguyenXuanDuc/DoulingoApp2/app/src/main/java/com/example/doulingoapp
+
+Code layout: https://github.com/DiemHieu/ELT3097-1-2020/tree/master/NguyenXuanDuc/DoulingoApp2/app/src/main/res/layout
