@@ -4,3 +4,4 @@ Màn hình của Diêm Đăng Hiếu - nhóm 10:
 https://github.com/DiemHieu/ELT3097-1-2020/blob/master/DiemDangHieu/DiemDangHieu.gif 
 Màn hình của Nguyễn Xuân Đức - Nhóm 10
 https://github.com/DiemHieu/ELT3097-1-2020/blob/master/NguyenXuanDuc/NguyenXuanDuc.gif
+code mã nguồn: https://github.com/DiemHieu/ELT3097-1-2020/tree/master/NguyenXuanDuc/DoulingoApp2/app/src/main/java/com/example/doulingoapp
