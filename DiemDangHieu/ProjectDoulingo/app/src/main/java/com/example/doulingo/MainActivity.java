@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String Button4Text = button4.getText().toString();
                 textView3.setText("Chính xác!");
-                textView3.setBackgroundColor(Color.parseColor("#0DDC12"));
+                textView3.setBackgroundColor(Color.parseColor("#7cfc00"));
                 button4.setText("Tiếp tục");
                 if(Button4Text.equals("Tiếp tục")){
                     openActivity2();
@@ -44,7 +44,8 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                button.setBackgroundColor(Color.parseColor("#0DDC12"));
+                button.setBackgroundColor(Color.parseColor("#87cefa"));
+
                 button4.setBackgroundColor(Color.parseColor("#0DDC12"));
 
             }
@@ -52,14 +53,14 @@ public class MainActivity extends AppCompatActivity {
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                button1.setBackgroundColor(Color.parseColor("#0DDC12"));
+                button1.setBackgroundColor(Color.parseColor("#87cefa"));
                 button4.setBackgroundColor(Color.parseColor("#0DDC12"));
             }
         });
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                button2.setBackgroundColor(Color.parseColor("#0DDC12"));
+                button2.setBackgroundColor(Color.parseColor("#87cefa"));
                 button4.setBackgroundColor(Color.parseColor("#0DDC12"));
             }
         });
