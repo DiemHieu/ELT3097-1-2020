@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 
 public class StartScreen extends AppCompatActivity {
 
@@ -13,18 +14,25 @@ public class StartScreen extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.start_screen);
-        Button buttonquiz1 = findViewById(R.id.buttonquiz1);
-        Button buttonquiz2 = findViewById(R.id.buttonquiz2);
-        buttonquiz1.setOnClickListener(new View.OnClickListener() {
+        ImageView imageView1 = findViewById(R.id.imageView1);
+        ImageView imageView2 = findViewById(R.id.imageView2);
+        ImageView imageView3 = findViewById(R.id.imageView3);
+        imageView1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 openMainActivityQ1();
             }
         });
-        buttonquiz2.setOnClickListener(new View.OnClickListener() {
+        imageView2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 openMainActivityQ2();
+            }
+        });
+        imageView3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openMainActivityQ1();
             }
         });
     }
