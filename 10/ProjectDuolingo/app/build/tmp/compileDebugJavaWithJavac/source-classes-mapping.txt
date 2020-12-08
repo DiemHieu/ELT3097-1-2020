@@ -1,0 +1,110 @@
+com/example/doulingo/MainActivity4.java
+ com.example.doulingo.MainActivity4
+ com.example.doulingo.MainActivity4$1
+ com.example.doulingo.MainActivity4$1$1
+ com.example.doulingo.MainActivity4$2
+ com.example.doulingo.MainActivity4$2$1
+ com.example.doulingo.MainActivity4$3
+ com.example.doulingo.MainActivity4$3$1
+com/example/doulingo/MainActivity6Q1.java
+ com.example.doulingo.MainActivity6Q1
+com/example/doulingo/MainActivity2Q2.java
+ com.example.doulingo.MainActivity2Q2
+ com.example.doulingo.MainActivity2Q2$1
+ com.example.doulingo.MainActivity2Q2$2
+ com.example.doulingo.MainActivity2Q2$3
+com/example/doulingo/StartScreen.java
+ com.example.doulingo.StartScreen
+ com.example.doulingo.StartScreen$1
+ com.example.doulingo.StartScreen$2
+ com.example.doulingo.StartScreen$3
+com/example/doulingo/MainActivityQ1.java
+ com.example.doulingo.MainActivityQ1
+ com.example.doulingo.MainActivityQ1$1
+ com.example.doulingo.MainActivityQ1$1$1
+ com.example.doulingo.MainActivityQ1$2
+ com.example.doulingo.MainActivityQ1$2$1
+ com.example.doulingo.MainActivityQ1$3
+ com.example.doulingo.MainActivityQ1$3$1
+com/example/doulingo/MainActivity3Q2.java
+ com.example.doulingo.MainActivity3Q2
+ com.example.doulingo.MainActivity3Q2$1
+ com.example.doulingo.MainActivity3Q2$2
+ com.example.doulingo.MainActivity3Q2$3
+ com.example.doulingo.MainActivity3Q2$4
+ com.example.doulingo.MainActivity3Q2$5
+ com.example.doulingo.MainActivity3Q2$6
+ com.example.doulingo.MainActivity3Q2$7
+com/example/doulingo/MainActivity3.java
+ com.example.doulingo.MainActivity3
+ com.example.doulingo.MainActivity3$1
+ com.example.doulingo.MainActivity3$1$1
+ com.example.doulingo.MainActivity3$2
+ com.example.doulingo.MainActivity3$2$1
+ com.example.doulingo.MainActivity3$3
+ com.example.doulingo.MainActivity3$3$1
+com/example/doulingo/MainActivity4Q2.java
+ com.example.doulingo.MainActivity4Q2
+ com.example.doulingo.MainActivity4Q2$1
+ com.example.doulingo.MainActivity4Q2$2
+ com.example.doulingo.MainActivity4Q2$3
+com/example/doulingo/MainActivity.java
+ com.example.doulingo.MainActivity
+ com.example.doulingo.MainActivity$1
+ com.example.doulingo.MainActivity$1$1
+ com.example.doulingo.MainActivity$2
+ com.example.doulingo.MainActivity$2$1
+ com.example.doulingo.MainActivity$3
+ com.example.doulingo.MainActivity$3$1
+com/example/doulingo/MainActivity6.java
+ com.example.doulingo.MainActivity6
+com/example/doulingo/MainActivity3Q1.java
+ com.example.doulingo.MainActivity3Q1
+ com.example.doulingo.MainActivity3Q1$1
+ com.example.doulingo.MainActivity3Q1$1$1
+ com.example.doulingo.MainActivity3Q1$2
+ com.example.doulingo.MainActivity3Q1$2$1
+ com.example.doulingo.MainActivity3Q1$3
+ com.example.doulingo.MainActivity3Q1$3$1
+com/example/doulingo/MainActivity2Q1.java
+ com.example.doulingo.MainActivity2Q1
+ com.example.doulingo.MainActivity2Q1$1
+ com.example.doulingo.MainActivity2Q1$1$1
+ com.example.doulingo.MainActivity2Q1$2
+ com.example.doulingo.MainActivity2Q1$2$1
+ com.example.doulingo.MainActivity2Q1$3
+ com.example.doulingo.MainActivity2Q1$3$1
+com/example/doulingo/MainActivity5.java
+ com.example.doulingo.MainActivity5
+ com.example.doulingo.MainActivity5$1
+ com.example.doulingo.MainActivity5$1$1
+ com.example.doulingo.MainActivity5$2
+ com.example.doulingo.MainActivity5$2$1
+ com.example.doulingo.MainActivity5$3
+ com.example.doulingo.MainActivity5$3$1
+com/example/doulingo/MainActivity2.java
+ com.example.doulingo.MainActivity2
+ com.example.doulingo.MainActivity2$1
+ com.example.doulingo.MainActivity2$1$1
+ com.example.doulingo.MainActivity2$2
+ com.example.doulingo.MainActivity2$2$1
+ com.example.doulingo.MainActivity2$3
+ com.example.doulingo.MainActivity2$3$1
+com/example/doulingo/MainActivity4Q1.java
+ com.example.doulingo.MainActivity4Q1
+ com.example.doulingo.MainActivity4Q1$1
+ com.example.doulingo.MainActivity4Q1$1$1
+ com.example.doulingo.MainActivity4Q1$2
+ com.example.doulingo.MainActivity4Q1$2$1
+ com.example.doulingo.MainActivity4Q1$3
+ com.example.doulingo.MainActivity4Q1$3$1
+com/example/doulingo/MainActivity5Q1.java
+ com.example.doulingo.MainActivity5Q1
+ com.example.doulingo.MainActivity5Q1$1
+ com.example.doulingo.MainActivity5Q1$1$1
+ com.example.doulingo.MainActivity5Q1$2
+ com.example.doulingo.MainActivity5Q1$2$1
+ com.example.doulingo.MainActivity5Q1$3
+ com.example.doulingo.MainActivity5Q1$3$1
+com/example/doulingo/BuildConfig.java
+ com.example.doulingo.BuildConfig
