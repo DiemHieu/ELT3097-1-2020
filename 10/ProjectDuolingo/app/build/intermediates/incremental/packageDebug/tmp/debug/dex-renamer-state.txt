@@ -1,4 +1,0 @@
-#Tue Dec 08 19:53:40 ICT 2020
-base.0=C\:\\Users\\ADMIN\\Downloads\\ELT3097-1-2020\\ELT3097-1-2020-master\\10\\ProjectDoulingo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
