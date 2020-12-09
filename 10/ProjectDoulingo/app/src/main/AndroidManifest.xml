@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity2Q1"></activity>
+        <activity android:name="quiz1.MainActivity2Q1"></activity>
 
         <activity android:name=".StartScreen">
             <intent-filter>
@@ -18,35 +18,35 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivityQ1">
+        <activity android:name="quiz1.MainActivityQ1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity3Q1">
+        <activity android:name="quiz1.MainActivity3Q1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity4Q1">
+        <activity android:name="quiz1.MainActivity4Q1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity5Q1">
+        <activity android:name="quiz1.MainActivity5Q1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity6Q1">
+        <activity android:name="quiz1.MainActivity6Q1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
